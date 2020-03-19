@@ -1,7 +1,7 @@
 {
   "name": "simple-testing",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very simple implementation of React that is being served up by express and webpack and ReactDOM/Server.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -40,5 +40,13 @@
     "react-dom": "^16.13.0",
     "webpack": "^4.42.0",
     "webpack-node-externals": "^1.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmshanahan/ReactExpressServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmshanahan/ReactExpressServer/issues"
+  },
+  "homepage": "https://github.com/jmshanahan/ReactExpressServer#readme"
 }
